@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Two Activities</string>
+    <string-array name="colors_arr">
+        <item>White</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Black</item>
+        <item>Purple</item>
+        <item>Yellow</item>
+        <item>Gray</item>
+        <item>Magenta</item>
+        <item>Cyan</item>
+    </string-array>
+
+</resources>
